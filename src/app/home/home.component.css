@@ -1,0 +1,11 @@
+.home{
+    background-color: #1abc9c;
+  
+}
+.line {
+    height: 4px;
+    width: 80px;
+}
+.me-3 {
+    margin-right: 1rem !important;
+}

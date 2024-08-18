@@ -1,0 +1,20 @@
+
+.footer{
+    text-align: center;
+
+    background-color: #50667c;
+    color: white;
+    display: flex;
+
+}
+.icons i{
+
+    border: white solid 1px;
+   padding: 8px;
+   margin: 3px;
+   
+   border-radius: 50%;
+}
+.footerrr{
+    background-color: #2c3e50;
+}

@@ -1,0 +1,18 @@
+.line {
+    height: 4px;
+    width: 80px;
+}
+.me-3 {
+    margin-right: 1rem !important;
+}
+
+.layer:hover {
+    opacity: 1;
+}
+
+.layer {
+    background-color: #1abc9ce6;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+}
